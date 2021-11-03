@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "task": "install Node JS",
+    "complete": true
+  },
+  {
+    "id": 2,
+    "task": "Install VS Code",
+    "complete": true
+  },
+  {
+    "id": 3,
+    "task": "Create React Application",
+    "complete": false
+  },
+  {
+    "id": 4,
+    "task": "Run React Application",
+    "complete": true
+  },
+  {
+    "id": 5,
+    "task": "Review the project structure",
+    "complete": false
+  },
+  {
+    "id": 6,
+    "task": "Rendering JSON list",
+    "complete": true
+  },
+  {
+    "id": 7,
+    "task": "Using UseState",
+    "complete": true
+  },
+  {
+    "id": 8,
+    "task": "Adding Hooks",
+    "complete": false
+  },
+  {
+    "id": 9,
+    "task": "Change state on Button Click",
+    "complete": true
+  },
+  {
+    "id": 10,
+    "task": "Build React Todo Application ",
+    "complete": false
+  }
+]
